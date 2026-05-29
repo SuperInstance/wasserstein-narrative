@@ -63,3 +63,5 @@ console.log('Genre:', classifyGenre(story));
 ## License
 
 MIT
+
+Part of the [SuperInstance OpenConstruct](https://github.com/SuperInstance/OpenConstruct) ecosystem.
